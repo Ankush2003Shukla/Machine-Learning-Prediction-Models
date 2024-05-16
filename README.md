@@ -1,4 +1,4 @@
-## Prediction Models
+## Machine-Learning-Prediction-Models
 This repository contains multiple prediction models for various datasets and problems. Each model is implemented using Python and various machine learning libraries.
 
 ## Prediction Models 
